@@ -49,17 +49,11 @@ Designed with a “Tony Stark” persona, CommentIntel demonstrates retrieval-au
    git clone https://github.com/your-username/commentintel.git
    cd commentintel
    ```
-
-2. **Install dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Obtain API Keys**  
+2. **Obtain API Keys**  
    - **OpenAI key:** [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)  
    - **YouTube Data API key:** [https://console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials)
 
-4. **Configure keys**  
+3. **Configure keys**  
    Store your keys as environment variables, or provide them via `getpass()` prompts in the notebook.
 
 ## Usage
