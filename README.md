@@ -84,4 +84,4 @@ Designed with a “Tony Stark” persona, CommentIntel demonstrates retrieval-au
 ## Acknowledgements
 
 Developed by **Jivesh Shioshankar Dhakate**  
-COMP47980 – Generative AI: Language Models, University College Dublin, Spring 2025.
+Generative AI: Language Models, University College Dublin, Spring 2025.
